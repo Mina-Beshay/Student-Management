@@ -1,0 +1,27 @@
+{
+    "Documentation": "الفهرسة",
+    "Welcome to our website!": "اهلا بك في موقعتا",
+    "title": "العنوان",
+    "lang": "اللغه",
+    "Student Dashboard": "لوحة الطلاب ",
+    "Edit": "تعديل",
+    "Delete": "حذف",
+    "Date Of Birth From": "تاريخ الميلاد من",
+    "Date Of Birth to": "تاريخ الميلاد الي",
+    "search": "بحث",
+    "Search for All": "بحث عن جميع الطلبة",
+    "Add New Student" : "اضافة طالب جديد",
+    "Name": "الاسم",
+    "phone":"رقم الهاتف",
+    "Class":"الفصل",
+    "Marks":"الدرجات",
+    "Birth-date": "تاريخ الميلاد",
+    "Create Student" : "انشاء طالب",
+    "Save": "حفظ",
+    "Confirm delete ?": "تأكيد المسح ؟",
+    "Update" : "تحديث",
+    "Edit student": "تعديل طالب",
+    "result of search": "نتائج البحث"
+
+
+}
