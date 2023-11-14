@@ -60,6 +60,11 @@
                                 </tr>
                                 </thead>
                                 <tbody>
+                                @if($students->count()==0)
+                                    <tr>
+                                        <th style="text-align: center" colspan="6">No Students Data</th>
+                                    </tr>
+                                @else
                                 @foreach($students as $item)
                                     <tr>
                                         <td>{{ $loop->iteration }}</td>
@@ -68,7 +73,6 @@
                                         <td>{{ $item->class }}</td>
                                         <td>{{ $item->marks }}</td>
                                         <td>{{ $item->birth_date }}</td>
-
                                         <td>
                                             <a href="{{ url('/Student/Edit/' . $item->id ) }}" title="Edit Student"><button class="btn btn-primary btn-sm"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{__('Edit')}}</button></a>
                                             <a onclick="return confirm('Confirm delete ? ')" href="{{ url('/Student/Delete/'. $item->id) }}" title="DELETE Student"><button class="btn btn-danger btn-sm" ><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{__('Delete')}}</button></a>
@@ -76,6 +80,7 @@
                                         </td>
                                     </tr>
                                 @endforeach
+                                @endif
                                 </tbody>
                             </table>
                         </div>
