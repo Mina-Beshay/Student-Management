@@ -1,3 +1,14 @@
+![5](https://github.com/Mina-Beshay/Student-Management/assets/150763696/25d67f02-7fbc-4ae3-bb75-1a629f7635a9)
+![4-r](https://github.com/Mina-Beshay/Student-Management/assets/150763696/b937dcb6-5f34-4307-ad7d-f9cf8bae075c)
+![4](https://github.com/Mina-Beshay/Student-Management/assets/150763696/5734605b-2b91-4225-b039-b0c62d724b8f)
+![3-r](https://github.com/Mina-Beshay/Student-Management/assets/150763696/337cbc06-690e-43ed-add7-01f67bdd1531)
+![3](https://github.com/Mina-Beshay/Student-Management/assets/150763696/0ebc91bd-f396-4298-a979-a6ff8abce3fa)
+![2-r](https://github.com/Mina-Beshay/Student-Management/assets/150763696/208152fd-af42-4376-96ff-ff0d7b3b27dc)
+![2](https://github.com/Mina-Beshay/Student-Management/assets/150763696/a75b55af-13e3-4532-a3cf-e203889b2549)
+![1-r](https://github.com/Mina-Beshay/Student-Management/assets/150763696/5b0ef9f9-3e98-4004-817a-997156637e05)
+![1](https://github.com/Mina-Beshay/Student-Management/assets/150763696/01322f75-ab22-49c3-a63a-c926de684a99)
+
+
 <h1>CRUD</h1>
 
 
